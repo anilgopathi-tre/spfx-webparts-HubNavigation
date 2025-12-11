@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "solutionName": "hub-navigation",
+    "solutionShortDescription": "Hub Site Navigation Application Customizer",
+    "version": "1.18.2",
+    "libraryName": "hub-navigation",
+    "libraryId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false
+  }
+}
+
